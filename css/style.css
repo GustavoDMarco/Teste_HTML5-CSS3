@@ -1,0 +1,41 @@
+body{
+    background: #090030;
+    color: #C9C8CB;
+    margin-left: 450px;
+    margin-right: 450px;
+}
+
+header{
+    margin-top: 50px;
+}
+
+h2{
+    color: #EFFF6A;
+    font-family: fantasy;
+    margin-left: 175px;
+}
+
+h3{
+    color: #EFFF6A;
+    font-family: fantasy;
+    margin-left: 75px;
+    margin-top: 25px;
+}
+
+
+p{
+    font-size: 20px;  
+    margin-left: 75px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}    
+
+.padrao{
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+.img_logos{
+    margin-left: 30px;
+
+}
